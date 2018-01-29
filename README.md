@@ -17,16 +17,12 @@ xFIP - differs from FIP in that it normalizes a pitcher's ome runs allowed based
 SIERA - skill interactive ERA that quantifies a pitcher's performance by trying to eliminate factors the pitcher can't control by himself. But unlike xFIP, SIERA considers balls in play and adjusts for the type of ball in play.
 
 
-Future iterations of the project will hopefully include:
-
-Further exploring advanced batted ball profile statistics to further enhance my hitting model
-Incorporating speed into my hitting model
-Exploring specific pitch types and incorporate them into my pitching model
-
-Comparing projected breakout players to their draft position or auction value
+Future iterations of the project will include:
+* Further exploring advanced batted ball profile statistics to further enhance my hitting model
+* Incorporating speed into my hitting model
+* Exploring specific pitch types and incorporate them into my pitching model
+* Comparing projected breakout players to their draft position or auction value
 
 Further further iterations of the project:
-
-Creating a 2018 projection model based off of expected playing time
-
-Incorporate minor league numbers and create comparable players for when players are called up
+* Creating a 2018 projection model based off of expected playing time
+* Incorporate minor league numbers and create comparable players for when players are called up

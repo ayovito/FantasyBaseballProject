@@ -18,10 +18,10 @@ SIERA - skill interactive ERA that quantifies a pitcher's performance by trying 
 
 
 Future iterations of the project will include:
-* Further exploring advanced batted ball profile statistics to further enhance my hitting model
+* Comparing projected breakout players to their draft position or auction value
+* Exploring advanced batted ball profile statistics to further enhance my hitting model
 * Incorporating speed into my hitting model
 * Exploring specific pitch types and incorporate them into my pitching model
-* Comparing projected breakout players to their draft position or auction value
 
 Further further iterations of the project:
 * Creating a 2018 projection model based off of expected playing time

@@ -22,7 +22,7 @@ Future iterations of the project will include:
 * Exploring advanced batted ball profile statistics to further enhance my hitting model
 * Incorporating speed into my hitting model
 * Exploring specific pitch types and incorporate them into my pitching model
-
-Further further iterations of the project:
 * Creating a 2018 projection model based off of expected playing time
+
+Further down the line project inclusions:
 * Incorporate minor league numbers and create comparable players for when players are called up
